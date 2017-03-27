@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "712446339877",
+    "firebase_url": "https://mydj-bfdcd.firebaseio.com",
+    "project_id": "mydj-bfdcd",
+    "storage_bucket": "mydj-bfdcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712446339877:android:5ec9e1ef714fc9ea",
+        "android_client_info": {
+          "package_name": "com.mydj.player_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712446339877-rd6ju0lac3j2qdmajthd71j4pb55nqsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBwwU5T2DBpjbkEAXBvYMflzKiEySwXw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
